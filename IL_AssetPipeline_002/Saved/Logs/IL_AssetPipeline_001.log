@@ -652,3 +652,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.28-20.24.56:054][496]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IL_Whitebox_MyCityBlock' took 1.449
 [2019.01.28-20.24.56:054][496]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.449
 [2019.01.28-20.26.37:081][110]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.28-20.27.35:592][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.28-20.27.36:584][220]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
